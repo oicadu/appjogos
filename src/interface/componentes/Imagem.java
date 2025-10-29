@@ -1,4 +1,4 @@
-package interface.componentes;
+package interfaces.componentes;
 // as imagens pegar no material icons windowns close minimise
 
 import javax.swing.ImageIcon;
